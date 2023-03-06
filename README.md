@@ -1,4 +1,5 @@
 # Spotify-Clone
-I've created the spotify clone using the Visual studio code framework &amp; with the use of HTML, CSS &amp; JavaScript.
+I've created the spotify clone using the Visual studio code framework and with the use of HTML, CSS and JavaScript.
 
-"C:\Users\Aastharaj\Desktop\Spotify clone.jpg"
+![Spotify clone](https://user-images.githubusercontent.com/74560111/223169456-a6ff6506-ee9a-4ae0-8dcd-888335f43b06.jpg)
+
